@@ -17,6 +17,4 @@ Primeiro, clone o repositório em seu computador:
 ```bash
 git clone https://github.com/pedrocanatoo/Primeiro-Todolist-React.git
 
-
-![image](https://github.com/user-attachments/assets/6bbc6cf8-c031-4941-a326-a819470561aa)
-
+![image](https://github.com/user-attachments/assets/bf58ba1c-4f9d-4cb9-a2ac-ff3f1f231297)
